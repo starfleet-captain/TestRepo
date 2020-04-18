@@ -1,2 +1,5 @@
-# Second version of the file.
+# Third version of the file.
 # Additional comment.
+
+def main():
+	pass
